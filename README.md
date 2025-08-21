@@ -60,8 +60,8 @@ StillPoint Journal is an innovative journaling application designed to enhance s
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/mondal-paushali03/stillpoint-journal.git
-cd stillpoint-journal
+git clone https://github.com/Mridul180304/StillPoint.git
+cd StillPoint
 ```
 ### 2️⃣ Install dependencies
 ```bash
