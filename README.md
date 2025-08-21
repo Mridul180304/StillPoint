@@ -58,24 +58,19 @@ StillPoint Journal is an innovative journaling application designed to enhance s
 
 ## 🚀 Getting Started
 
-### Clone the repository
-
-
-git clone https://github.com/Mridul180304/StillPoint.git
-cd StillPoint
-
-
-### Install dependencies
-
-
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/mondal-paushali03/stillpoint-journal.git
+cd stillpoint-journal
+```
+### 2️⃣ Install dependencies
+```bash
 npm install
-
-
-### Run the project
-
-
+```
+### 3️⃣ Run the project
+```bash
 npm start
-
+```
 
 ## 💻 Tech Stack
 
