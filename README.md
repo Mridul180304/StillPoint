@@ -4,19 +4,19 @@ An **NLP-powered journaling app** that helps you track your emotions, discover p
 
 ## 📖 Table of Contents
 
-* [Project Overview](#project-overview)
+* [Project Overview](#-project-overview)
 
-* [Features](#features)
+* [Features](#-features)
 
-* [Screenshots](#screenshots)
+* [Screenshots](#-screenshots)
 
-* [Getting Started](#getting-started)
+* [Getting Started](#-getting-started)
 
-* [Tech Stack](#tech-stack)
+* [Tech Stack](#-tech-stack)
 
-* [License](#license)
+* [License](#-license)
 
-* [Contact](#contact)
+* [Contact](#-contact)
 
 ## 🚀 Project Overview
 
@@ -46,15 +46,18 @@ StillPoint Journal is an innovative journaling application designed to enhance s
 
 > Home Page of StillPoint Journal
 
-<img width="881" height="615" alt="image" src="https://github.com/Mridul180304/StillPoint/assets/e5bedac0-7dc4-4dff-9cae-c0b74dde5f7d" />
+![WhatsApp Image 2025-08-21 at 22 28 19_dbe1d3a8](https://github.com/user-attachments/assets/c0aba808-9af8-413d-abd8-9b02ba497e71)
+
 
 > Personalised Suggestions
 
-<img width="1239" height="809" alt="image" src="https://github.com/Mridul180304/StillPoint/assets/4506c74e-02d6-4ccc-a917-54b32aaaad23" />
+![WhatsApp Image 2025-08-21 at 22 28 22_28d8b5d4](https://github.com/user-attachments/assets/c0a5b417-327e-470e-be80-b19e9c2e9961)
+
 
 > Mood Dashboard
 
-<img width="1252" height="845" alt="image" src="https://github.com/Mridul180304/StillPoint/assets/14f2c855-6c37-4e49-a697-e80ef55c7cbe" />
+![WhatsApp Image 2025-08-21 at 22 28 22_fe4f036a](https://github.com/user-attachments/assets/3976fb90-1069-47f7-9596-944a90b87baa)
+
 
 ## 🚀 Getting Started
 
